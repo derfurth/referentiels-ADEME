@@ -1,6 +1,6 @@
 # Tests de personnalisation
 
-On retrouvera dans ce dossier les tests du référentiels (aujourd'hui au format **yaml**)
+On retrouvera dans ce dossier les tests du référentiels et des règles de personnalisation (aujourd'hui au format **yaml**)
 
 Voir les tests ici, en attendant la conversion au format **md**: [https://github.com/derfurth/referentiels-ADEME/blob/main/markdown/tests/personnalisation/cae\_1.2.2.1\_potentiel\_sous\_actions.test.yml](cae\_1.2.2.1\_potentiel\_sous\_actions.test.yml)
 
